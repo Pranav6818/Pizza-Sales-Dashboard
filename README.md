@@ -59,3 +59,7 @@
    - Best- CLASSIC DELUXE and CHICKEN PIZZAS
  
    - Worst- BRIE CARRE
+ 
+## _[Link to Dashboard Snap](https://github.com/Pranav6818/Pizza-Sales-Dashboard/blob/main/Dashboard_snap.PNG)_
+
+## _[Link to MySQL Queries and Output](https://docs.google.com/presentation/d/1Pf5s2N_QP8ngVEr_2E_SouDM5PfB0J1N/edit?usp=sharing&ouid=111262771187875694725&rtpof=true&sd=true)_
